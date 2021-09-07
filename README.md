@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/codechef.svg" alt="CodeChef" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/hackerrank.svg" alt="Hackerrank" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/leetcode.svg" alt="Leetcode" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/social/stackoverflow.svg" alt="Stackoverflow" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/social/stackoverflow.svg" alt="Stackoverflow" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/office_365.svg" alt="Office 365" style="vertical-align:top margin:6px 4px">
 </p>
 
