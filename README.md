@@ -1,5 +1,5 @@
 <h3 align="center">
-  ## Welcome to Sobhan Bose's profile!
+  Welcome to <b>Sobhan Bose</b>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <br> <br>
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/pronouns/hehim.svg" style="vertical-align:top margin:6px 4px">
