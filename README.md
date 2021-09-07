@@ -48,7 +48,7 @@
 ## Tools
 
 <p>
-    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBosemain/res/svg/dev/tools/visualstudio_code.svg" alt="Viseal Studio Code" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/jetbrains_pycharm.svg" alt="PyCharm" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ IDEA" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/eclipse.svg" alt="Eclipse" style="vertical-align:top margin:6px 4px">
