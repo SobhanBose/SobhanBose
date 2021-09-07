@@ -69,7 +69,7 @@
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/firefox.svg" alt="Firefox" style="vertical-align:top margin:6px 4px">
 </p>
 
-##Databases and cloud hosting
+## Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
