@@ -12,8 +12,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sobhan-bose/" target="_blank"> <img width="40px" height="40px" src="https://github.com/SobhanBose/SobhanBose/blob/main/res/icons8-linkedin-50.png" alt="Linkedin"> </a>
-  <a href="https://github.com/SobhanBose" target="_blank"> <img width="40px" height="40px" src="https://github.com/SobhanBose/SobhanBose/blob/main/res/icons8-github-48.png" alt="Github"> </a>
+  <a href="https://www.linkedin.com/in/sobhan-bose/"> <img width="40px" height="40px" src="https://github.com/SobhanBose/SobhanBose/blob/main/res/icons8-linkedin-50.png" alt="Linkedin"> </a>
+  <a href="https://github.com/SobhanBose"> <img width="40px" height="40px" src="https://github.com/SobhanBose/SobhanBose/blob/main/res/icons8-github-48.png" alt="Github"> </a>
 </p>
 
 <br>
