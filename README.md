@@ -91,6 +91,7 @@
   <li> <a href="https://github.com/SobhanBose/Kiara"> Kiara </a> : An AI enabled voice assistant built with Python </li>
   <li> <a href="https://github.com/SobhanBose/Tic-Tac-Toe_Python_GUI"> Tic-Tac-Toe </a> : A rendition of the classic Tic-Tac-Toe game with 1v1 and Play Against "AI" mode   </li>
   <li> <a href="https://github.com/SobhanBose/Chess_Python"> Chess </a> : A 2v2 Chess game built using Python </li>
+  <li> <a href="https://github.com/SobhanBose/HostelManagement"> Hostel Management Software </a> : An application to help manage a hostel digitally </li>
 </ul>
 
 ## Currently working on
