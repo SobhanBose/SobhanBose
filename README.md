@@ -24,6 +24,7 @@
 
 <p>
     <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/c++.svg" alt="C++" style="vertical-align:top margin:6px 4px">
     <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px">
     <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
     <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
