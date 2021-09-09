@@ -80,3 +80,21 @@
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/chrome.svg" alt="Google Chrome" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/firefox.svg" alt="Firefox" style="vertical-align:top margin:6px 4px">
 </p>
+
+<br>
+
+# Projects
+
+## Completed
+<ul>
+  <li> <a href="gibberon.herokuapp.com"> GibberOn </a> : A privacy centered chatting web-application for casual anonymous group chats </li>
+  <li> <a href="https://github.com/SobhanBose/Kiara"> Kiara </a> : An AI enabled voice assistant built with Python </li>
+  <li> <a href="https://github.com/SobhanBose/Tic-Tac-Toe_Python_GUI"> Tic-Tac-Toe </a> : A rendition of the classic Tic-Tac-Toe game with 1v1 and Play Against "AI" mode   </li>
+  <li> <a href="https://github.com/SobhanBose/Chess_Python"> Chess </a> : A 2v2 Chess game built using Python </li>
+</ul>
+
+## Currently working on
+<ul>
+  <li> MicroURL : A web-based url shortner </li>
+  <li> An AI for my 2v2 Chess game using Nega-Max and Apha-Beta Pruning
+</ul>
