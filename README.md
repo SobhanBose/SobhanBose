@@ -99,5 +99,6 @@
 ## Currently working on
 <ul>
   <li> MicroURL : A web-based url shortner. Have completed the backend stuff but too lazy to do the frontend designing :sleepy: </li>
+  <li> Pacman : A rendition of the popular arcade game using Python and Pygame
   <li> An AI for my 2v2 Chess game using Nega-Max and Apha-Beta Pruning
 </ul>
