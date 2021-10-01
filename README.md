@@ -89,7 +89,7 @@
 
 ## Completed
 <ul>
-  <li> <a href="gibberon.herokuapp.com"> GibberOn </a> : A privacy centered chatting web-application for casual anonymous group chats </li>
+  <li> <a href="http://gibberon.herokuapp.com"> GibberOn </a> : A privacy centered chatting web-application for casual anonymous group chats </li>
   <li> <a href="https://github.com/SobhanBose/Kiara"> Kiara </a> : An AI enabled voice assistant built with Python </li>
   <li> <a href="https://github.com/SobhanBose/Tic-Tac-Toe_Python_GUI"> Tic-Tac-Toe </a> : A rendition of the classic Tic-Tac-Toe game with 1v1 and Play Against "AI" mode. The AI is powered by a very basic Mini-Max algorithm   </li>
   <li> <a href="https://github.com/SobhanBose/Chess_Python"> Chess </a> : A 2v2 Chess game built using Python </li>
