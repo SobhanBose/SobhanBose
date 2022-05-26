@@ -93,6 +93,7 @@
   <li> <a href="https://github.com/SobhanBose/Kiara"> Kiara </a> : An AI enabled voice assistant built with Python </li>
   <li> <a href="https://github.com/SobhanBose/Tic-Tac-Toe_Python_GUI"> Tic-Tac-Toe </a> : A rendition of the classic Tic-Tac-Toe game with 1v1 and Play Against "AI" mode. The AI is powered by a very basic Mini-Max algorithm   </li>
   <li> <a href="https://github.com/SobhanBose/Chess_Python"> Chess </a> : A 2v2 Chess game built using Python </li>
+  <li> <a href="[https://github.com/SobhanBose/HostelManagement](https://github.com/SobhanBose/Minesweeper_Python)"> Minesweeper </a> : A rendition of the classic Minesweeper game. </li>
   <li> <a href="https://github.com/SobhanBose/Pacman_Python"> Pacman </a> : A rendition of the popular arcade game using Python and Pygame. Did not work on the graphics as I couldn't find game art resources.
   <li> <a href="https://github.com/SobhanBose/HostelManagement"> Hostel Management Software </a> : An application to help manage a hostel digitally </li>
 </ul>
