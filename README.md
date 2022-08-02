@@ -36,6 +36,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/numpy.svg" alt="NumPy" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/pygame.svg" alt="Pygame" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/fastapi.svg" alt="FastAPI" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/flask.svg" alt="Flask" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/arduino.svg" alt="Arduino" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
