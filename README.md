@@ -86,9 +86,9 @@
 
 ## Workstation
 <p>
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ windows.svg" alt="Windows 11" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ amd.svg" alt="AMD Ryzen 5 5600H" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ nvidia rtx3050.svg" alt="Nvidia Geforce RTX 3050" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/windows11.svg" alt="Windows 11" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ryzen5600h.svg" alt="AMD Ryzen 5 5600H" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/nvidiartx3050.svg" alt="Nvidia Geforce RTX 3050" style="vertical-align:top margin:6px 4px">
 </p>
 
 <br>
