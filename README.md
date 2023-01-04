@@ -84,6 +84,13 @@
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/firefox.svg" alt="Firefox" style="vertical-align:top margin:6px 4px">
 </p>
 
+## Workstation
+<p>
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ windows.svg" alt="Windows 11" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ amd.svg" alt="AMD Ryzen 5 5600H" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ nvidia rtx3050.svg" alt="Nvidia Geforce RTX 3050" style="vertical-align:top margin:6px 4px">
+</p>
+
 <br>
 
 # Projects
