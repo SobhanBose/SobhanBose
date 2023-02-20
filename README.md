@@ -2,7 +2,7 @@
   Welcome to Sobhan Bose's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <br> <br>
-<!--   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/pronouns/hehim.svg" style="vertical-align:top margin:6px 4px"> -->
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/pronouns/hehim.svg" style="vertical-align:top margin:6px 4px">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -13,7 +13,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sobhan-bose/"> <img width="40px" height="40px" src="https://github.com/SobhanBose/SobhanBose/blob/main/res/icons8-linkedin-50.png" alt="Linkedin"> </a>
-  <a href="https://github.com/SobhanBose"> <img width="40px" height="40px" src="https://github.com/SobhanBose/SobhanBose/blob/main/res/icons8-github-48.png" alt="Github"> </a>
+<!--   <a href="https://github.com/SobhanBose"> <img width="40px" height="40px" src="https://github.com/SobhanBose/SobhanBose/blob/main/res/icons8-github-48.png" alt="Github"> </a> -->
 </p>
 
 <br>
