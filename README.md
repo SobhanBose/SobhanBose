@@ -99,12 +99,12 @@
 ## Completed
 <ul>
   <li> <a href="http://gibberon.herokuapp.com"> GibberOn </a> : A privacy centered chatting web-application for casual anonymous group chats </li>
-  <li> <a href="https://github.com/SobhanBose/Kiara"> Kiara </a> : An AI enabled voice assistant built with Python </li>
-  <li> <a href="https://github.com/SobhanBose/Tic-Tac-Toe_Python_GUI"> Tic-Tac-Toe </a> : A rendition of the classic Tic-Tac-Toe game with 1v1 and Play Against "AI" mode. The AI is powered by a very basic Mini-Max algorithm   </li>
-  <li> <a href="https://github.com/SobhanBose/Chess_Python"> Chess </a> : A 2v2 Chess game built using Python </li>
-  <li> <a href="https://github.com/SobhanBose/Minesweeper_Python"> Minesweeper </a> : A rendition of the classic Minesweeper game. </li>
+  <li> <a href="https://github.com/SobhanBose/Kiara"> Kiara </a> : An AI enabled voice assistant with a GUI built with Python </li>
+  <li> <a href="https://github.com/SobhanBose/Tic-Tac-Toe_Python_GUI"> Tic-Tac-Toe </a> : A rendition of the classic Tic-Tac-Toe game with GUI packing 1v1 and Play Against "AI" mode. The AI is powered by a very basic Mini-Max algorithm   </li>
+  <li> <a href="https://github.com/SobhanBose/Chess_Python"> Chess </a> : A 2v2 GUI Chess game built using Python </li>
+  <li> <a href="https://github.com/SobhanBose/Minesweeper_Python"> Minesweeper </a> : A GUI rendition of the classic Minesweeper game. </li>
   <li> <a href="https://github.com/SobhanBose/Pacman_Python"> Pacman </a> : A rendition of the popular arcade game using Python and Pygame. Did not work on the graphics as I couldn't find game art resources.
-  <li> <a href="https://github.com/SobhanBose/HostelManagement"> Hostel Management Software </a> : An application to help manage a hostel digitally </li>
+  <li> <a href="https://github.com/SobhanBose/HostelManagement"> Hostel Management Software </a> : A GUI application to help manage a hostel digitally </li>
 </ul>
 
 ## Currently working on
