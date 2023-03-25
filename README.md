@@ -110,6 +110,6 @@
 ## Currently working on
 <ul>
   <li> <a href="https://github.com/SobhanBose/e-hab"> E-hab </a>: A web-based application that helps recovering addicts search for nearest support groups and rehabilitation centres.</li>
-  <li> MicroURL : A web-based url shortner. Have completed the backend stuff but too lazy to do the frontend designing :sleepy: </li>
+  <li> <a href="https://github.com/SobhanBose/MicroURL">MicroURL</a> : A web-based url shortner. Have completed the backend stuff but too lazy to do the frontend designing :sleepy: </li>
   <li> An AI for my 2v2 Chess game using Nega-Max and Apha-Beta Pruning. I've got it working but it needs some serious improvements.
 </ul>
