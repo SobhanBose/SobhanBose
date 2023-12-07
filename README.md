@@ -35,6 +35,8 @@
 ## Frameworks and libraries
 
 <p>
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/sklearn.svg" alt="scikit-learn" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/tensorflow.svg" alt="tensorflow" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/numpy.svg" alt="NumPy" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/pygame.svg" alt="Pygame" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/fastapi.svg" alt="FastAPI" style="vertical-align:top margin:6px 4px">
