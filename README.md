@@ -36,7 +36,7 @@
 
 <p>
   <img src="https://github.com/SobhanBose/SobhanBose/blob/f707101d8ca93f88168bd4bcaf3ccb4fa3528a32/res/svg/dev/frameworks/%20sklearn.svg" alt="scikit-learn" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/tensorflow.svg" alt="tensorflow" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/SobhanBose/SobhanBose/blob/35d750d41b36d35c137ec3db8da616cb851ad36f/res/svg/dev/frameworks/%20tensorflow.svg" alt="tensorflow" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/numpy.svg" alt="NumPy" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/pygame.svg" alt="Pygame" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/fastapi.svg" alt="FastAPI" style="vertical-align:top margin:6px 4px">
